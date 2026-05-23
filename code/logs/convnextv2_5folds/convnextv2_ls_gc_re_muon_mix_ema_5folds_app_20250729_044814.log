@@ -1,0 +1,44 @@
+Fold 2
+Train size: 6820 | Val size: 1705
+Zero-shot Val Acc: 0.0226
+Epoch 1, EMA ACC: 0.2610, Time: 331.49s
+New best EMA model saved with val acc: 0.2610
+Epoch 2, EMA ACC: 0.8432, Time: 331.25s
+New best EMA model saved with val acc: 0.8432
+Epoch 3, EMA ACC: 0.8935, Time: 331.34s
+New best EMA model saved with val acc: 0.8935
+Epoch 4, EMA ACC: 0.9010, Time: 332.16s
+New best EMA model saved with val acc: 0.9010
+Epoch 5, EMA ACC: 0.9161, Time: 332.04s
+New best EMA model saved with val acc: 0.9161
+Epoch 6, EMA ACC: 0.9167, Time: 331.75s
+New best EMA model saved with val acc: 0.9167
+Epoch 7, EMA ACC: 0.9086, Time: 331.52s
+Epoch 8, EMA ACC: 0.9149, Time: 331.74s
+Epoch 9, EMA ACC: 0.9172, Time: 331.78s
+New best EMA model saved with val acc: 0.9172
+Epoch 10, EMA ACC: 0.9167, Time: 331.50s
+Epoch 11, EMA ACC: 0.9120, Time: 331.52s
+Epoch 12, EMA ACC: 0.9155, Time: 331.62s
+Epoch 13, EMA ACC: 0.9167, Time: 331.76s
+Epoch 14, EMA ACC: 0.9196, Time: 331.81s
+New best EMA model saved with val acc: 0.9196
+Epoch 15, EMA ACC: 0.9144, Time: 331.70s
+Epoch 16, EMA ACC: 0.9207, Time: 331.91s
+New best EMA model saved with val acc: 0.9207
+Epoch 17, EMA ACC: 0.9155, Time: 331.68s
+Epoch 18, EMA ACC: 0.9149, Time: 331.73s
+Epoch 19, EMA ACC: 0.9201, Time: 331.67s
+Epoch 20, EMA ACC: 0.9242, Time: 331.53s
+New best EMA model saved with val acc: 0.9242
+Epoch 21, EMA ACC: 0.9109, Time: 331.65s
+Epoch 22, EMA ACC: 0.9207, Time: 331.75s
+Epoch 23, EMA ACC: 0.9201, Time: 331.84s
+Epoch 24, EMA ACC: 0.9213, Time: 331.93s
+Epoch 25, EMA ACC: 0.9207, Time: 331.70s
+Epoch 26, EMA ACC: 0.9190, Time: 331.71s
+Epoch 27, EMA ACC: 0.9207, Time: 331.61s
+Epoch 28, EMA ACC: 0.9196, Time: 331.58s
+Epoch 29, EMA ACC: 0.9271, Time: 331.57s
+New best EMA model saved with val acc: 0.9271
+Epoch 30, EMA ACC: 0.9213, Time: 331.62s

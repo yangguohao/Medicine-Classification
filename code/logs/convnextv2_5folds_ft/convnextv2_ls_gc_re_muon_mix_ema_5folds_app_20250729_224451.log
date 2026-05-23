@@ -1,0 +1,15 @@
+Fold 3
+Train size: 6820 | Val size: 1705
+Zero-shot Val Acc: 0.9115
+Epoch 1, EMA ACC: 0.9219, Time: 332.21s
+New best EMA model saved with val acc: 0.9219
+Epoch 2, EMA ACC: 0.9219, Time: 331.18s
+Epoch 3, EMA ACC: 0.9242, Time: 332.15s
+New best EMA model saved with val acc: 0.9242
+Epoch 4, EMA ACC: 0.9115, Time: 332.16s
+Epoch 5, EMA ACC: 0.9190, Time: 332.35s
+Epoch 6, EMA ACC: 0.9149, Time: 332.08s
+Epoch 7, EMA ACC: 0.9201, Time: 332.13s
+Epoch 8, EMA ACC: 0.9086, Time: 331.94s
+Epoch 9, EMA ACC: 0.9242, Time: 331.90s
+Epoch 10, EMA ACC: 0.9144, Time: 331.98s
