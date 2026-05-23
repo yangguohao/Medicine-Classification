@@ -1,4 +1,4 @@
-content_en = """# 2026 iFLYTEK AI Developer Challenge - Traditional Chinese Medicine (TCM) Recognition Challenge Solution
+# 2026 iFLYTEK AI Developer Challenge - Traditional Chinese Medicine (TCM) Recognition Challenge Solution
 
 [![Competition Link](https://img.shields.io/badge/Competition-iFLYTEK-blue.svg)](https://challenge.xfyun.cn/topic/info?type=tcm-recognition&ch=dwsf259)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
